@@ -1,0 +1,10 @@
+com\stepup\store\controller\ProductController.class
+com\stepup\store\StepUpApplication.class
+com\stepup\store\model\Order.class
+com\stepup\store\repository\OrderRepository.class
+com\stepup\store\repository\ProductRepository.class
+com\stepup\store\model\Product.class
+com\stepup\store\service\OrderService.class
+com\stepup\store\DataSeeder.class
+com\stepup\store\controller\OrderController.class
+com\stepup\store\service\ProductService.class
